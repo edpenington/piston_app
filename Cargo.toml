@@ -1,0 +1,8 @@
+[package]
+name = "piston_app"
+version = "0.1.0"
+authors = ["Ed Penington <edpenington@gmail.com>"]
+
+[dependencies]
+piston = {git = "https://github.com/edpenington/piston"}
+piston_window = {git = "https://github.com/edpenington/piston_window"}
